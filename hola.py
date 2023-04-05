@@ -1,6 +1,10 @@
 import seaborn as sb
 
-#
+#Cambios
+#crear variable nombre 
+nombre = 'Lorena'
+
+
 data = sb.load_dataset("iris")
 
 # draw lineplot 
